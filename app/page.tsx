@@ -6,7 +6,7 @@ import WhyChooseUs from "@/components/why-choose-us"
 import TestimonialsSection from "@/components/testimonials-section"
 import CTASection from "@/components/cta-section"
 
-export default function HomePage() {
+export default function Page() {
   return (
     <div className="min-h-screen">
       <Header />
